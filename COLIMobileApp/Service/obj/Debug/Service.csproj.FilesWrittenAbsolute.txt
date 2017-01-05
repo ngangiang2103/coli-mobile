@@ -1,0 +1,13 @@
+/Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/Service/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/Service/bin/Debug/Service.dll.mdb
+/Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/Service/bin/Debug/Service.dll
+/Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/Service/obj/Debug/Service.dll
+/Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/Service/obj/Debug/Service.dll.mdb
+/Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/Service/bin/Debug/Newtonsoft.Json.dll
+/Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/Service/bin/Debug/Microsoft.Threading.Tasks.dll
+/Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/Service/bin/Debug/Microsoft.Threading.Tasks.Extensions.dll
+/Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/Service/bin/Debug/System.Net.Http.Extensions.dll
+/Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/Service/bin/Debug/System.Net.Http.Primitives.dll
+/Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/Service/bin/Debug/Google.Apis.Core.dll
+/Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/Service/bin/Debug/Zlib.Portable.dll
+/Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/Service/bin/Debug/Google.Apis.dll

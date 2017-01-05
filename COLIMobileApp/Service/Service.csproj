@@ -32,7 +32,6 @@
     <Compile Include="Contracts\IColiService.cs" />
     <Compile Include="Models\Idioms.cs" />
     <Compile Include="Services\ColiService.cs" />
-    <Compile Include="ColiServiceManager.cs" />
     <Compile Include="Constant.cs" />
   </ItemGroup>
   <ItemGroup>
