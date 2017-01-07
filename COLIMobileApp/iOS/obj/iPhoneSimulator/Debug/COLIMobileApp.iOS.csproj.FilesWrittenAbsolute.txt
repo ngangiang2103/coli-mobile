@@ -13,3 +13,6 @@
 /Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
 /Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/iOS/bin/iPhoneSimulator/Debug/COLIMobileApp.dll
 /Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/iOS/bin/iPhoneSimulator/Debug/COLIMobileApp.dll.mdb
+/Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/iOS/bin/iPhoneSimulator/Debug/Service.dll
+/Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/iOS/bin/iPhoneSimulator/Debug/Service.dll.mdb
+/Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll

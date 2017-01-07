@@ -308,6 +308,10 @@
 	/Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/packages/Xamarin.Forms.2.3.1.114/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
 	-r \
 	/Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/COLIMobileApp/bin/Debug/COLIMobileApp.dll \
+	-r \
+	/Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/COLIMobileApp/bin/Debug/Service.dll \
+	-r \
+	/Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/COLIMobileApp/bin/Debug/Newtonsoft.Json.dll \
 	--target-framework \
 	"Xamarin.iOS,v1.0" \
 	/Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/iOS/bin/iPhoneSimulator/Debug//COLIMobileApp.iOS.exe \

@@ -3,7 +3,7 @@ namespace Service
 {
 	public class Idioms
 	{
-		public int Id { get; set; }
+		public string Id { get; set; }
 		public int ImageId { get; set; }
 		public string EnglishContent { get; set; }
 		public string VietnameseContent { get; set; }

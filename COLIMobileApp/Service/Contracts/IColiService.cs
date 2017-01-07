@@ -8,6 +8,6 @@ namespace Service
 	{
 		Task<List<Idioms>> RefreshIdiomsesAsync();
 		Task SaveIdiomsAsync(Idioms idioms, bool isNewIdioms);
-		Task DeleteIdiomsAsync(int id);
+		Task DeleteIdiomsAsync(string id);
 	}
 }

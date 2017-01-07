@@ -33,6 +33,7 @@
     <Compile Include="Models\Idioms.cs" />
     <Compile Include="Services\ColiService.cs" />
     <Compile Include="Constant.cs" />
+    <Compile Include="ColiServiceManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Contracts\" />

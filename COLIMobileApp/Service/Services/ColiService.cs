@@ -43,7 +43,7 @@ namespace Service
 			return Items;
 		}
 
-		public async Task DeleteIdiomsAsync(int id)
+		public async Task DeleteIdiomsAsync(string id)
 		{
 			var uri = new Uri(string.Format("{0}/{1}", Constant.RemoveIdiomsUrl, id));
 			try
@@ -62,7 +62,7 @@ namespace Service
 
 		public async Task SaveIdiomsAsync(Idioms idioms, bool isNewIdioms)
 		{
-				var uri = new Uri(string.Format("{0}/{1}", Constant.AddIdiomsUrl, idioms.Id));
+			var uri = new Uri(string.Format("{0}/{1}", Constant.AddIdiomsUrl, idioms.Id));
 			try
 			{
 				var json = JsonConvert.SerializeObject(idioms);

@@ -1,7 +1,5 @@
 /Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/COLIMobileApp/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
-/Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/COLIMobileApp/obj/Debug/COLIMobileApp.App.xaml
 /Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/COLIMobileApp/obj/Debug/COLIMobileApp.COLIMobileAppPage.xaml
-/Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/COLIMobileApp/obj/Debug/COLIMobileApp.App.xaml.g.cs
 /Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/COLIMobileApp/obj/Debug/COLIMobileApp.COLIMobileAppPage.xaml.g.cs
 /Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/COLIMobileApp/bin/Debug/COLIMobileApp.dll.mdb
 /Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/COLIMobileApp/bin/Debug/COLIMobileApp.dll

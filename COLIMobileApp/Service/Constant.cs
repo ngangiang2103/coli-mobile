@@ -5,7 +5,7 @@ namespace Service
 	{
 		//URL of REST Service 
 		public static string RestUrl = "http://api.dealbinhdinh.com/api/";
-		public static string IdiomsesUrl = string.Format("{0}Idiomese", RestUrl);
+		public static string IdiomsesUrl = string.Format("{0}Idioms/GetAll", RestUrl);
 		public static string AddIdiomsUrl = string.Format("{0}Idioms/Add/", RestUrl);
 		public static string RemoveIdiomsUrl = string.Format("{0}Idioms/Remove", RestUrl);
 
