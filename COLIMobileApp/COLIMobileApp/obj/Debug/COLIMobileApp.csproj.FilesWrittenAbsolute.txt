@@ -19,3 +19,7 @@
 /Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/COLIMobileApp/bin/Debug/Google.Apis.dll
 /Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/COLIMobileApp/bin/Debug/Service.dll
 /Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/COLIMobileApp/bin/Debug/Service.dll.mdb
+/Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/COLIMobileApp/obj/Debug/COLIMobileApp.View.COLIMobileAppPage.xaml
+/Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/COLIMobileApp/obj/Debug/COLIMobileApp.View.COLIMobileAppPage.xaml.g.cs
+/Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/COLIMobileApp/obj/Debug/COLIMobileApp.View.IdiomsItemPage.xaml
+/Users/buitrongan/Projects/Xamarin/COLIApplication/COLIMobileApp/COLIMobileApp/obj/Debug/COLIMobileApp.View.IdiomsItemPage.xaml.g.cs

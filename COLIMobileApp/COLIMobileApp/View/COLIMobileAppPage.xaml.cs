@@ -38,8 +38,9 @@ namespace COLIMobileApp
 		void OnItemSelected(object sender, SelectedItemChangedEventArgs e)
 		{
 			var idiomsItem = e.SelectedItem as Idioms;
-			//Blank and open Item View 
-			//::TODO:: - noted by trongan93
+			IdiomsItemPage idiomItemPage = new IdiomsItemPage();
+			idiomItemPage.BindingContext = idiomsItem;
+			Navigation.PushAsync(idiomItemPage);
 		}
 	}
 }

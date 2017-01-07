@@ -1,13 +1,17 @@
-﻿<Properties StartupConfiguration="{D78C4E7A-0DF1-478E-9378-DB3F040F18E4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="COLIMobileApp/COLIMobileAppPage.xaml.cs">
+﻿<Properties StartupConfiguration="{293C3FF3-6E11-4301-A2D6-84B6A0678BC4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="COLIMobileApp/View/COLIMobileAppPage.xaml">
     <Files>
-      <File FileName="Service/Models/Idioms.cs" Line="6" Column="16" />
       <File FileName="Droid/MainActivity.cs" Line="23" Column="51" />
-      <File FileName="COLIMobileApp/COLIMobileAppPage.xaml.cs" Line="29" Column="58" />
-      <File FileName="COLIMobileApp/COLIMobileAppPage.xaml" Line="13" Column="61" />
-      <File FileName="COLIMobileApp/App.cs" Line="15" Column="36" />
+      <File FileName="COLIMobileApp/App.cs" Line="18" Column="3" />
       <File FileName="COLIMobileApp/ITextToSpeech.cs" Line="6" Column="27" />
       <File FileName="Service/Constant.cs" Line="8" Column="62" />
+      <File FileName="COLIMobileApp/View/IdiomsItemPage.xaml.cs" Line="25" Column="4" />
+      <File FileName="COLIMobileApp/View/IdiomsItemPage.xaml" Line="11" Column="17" />
+      <File FileName="Service/Services/ColiService.cs" Line="33" Column="38" />
+      <File FileName="Service/Models/Idioms.cs" Line="11" Column="25" />
+      <File FileName="COLIMobileApp/obj/Debug/COLIMobileApp.View.IdiomsItemPage.xaml.g.cs" Line="21" Column="1" />
+      <File FileName="COLIMobileApp/obj/Debug/COLIMobileApp.COLIMobileAppPage.xaml.g.cs" Line="26" Column="10" />
+      <File FileName="COLIMobileApp/View/COLIMobileAppPage.xaml" Line="18" Column="65" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.COLIMobileApp.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.BH90NPUS16" />

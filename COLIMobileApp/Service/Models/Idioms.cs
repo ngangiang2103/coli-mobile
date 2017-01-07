@@ -8,6 +8,6 @@ namespace Service
 		public string EnglishContent { get; set; }
 		public string VietnameseContent { get; set; }
 		public string ChineseContent { get; set; }
-
+		public string ImageUri { get; set; }
 	}
 }
